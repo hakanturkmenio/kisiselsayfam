@@ -1,2 +1,2 @@
-# kisiselsayfam
+# patika.dev frontend assignment
 
